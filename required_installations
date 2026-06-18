@@ -1,0 +1,1 @@
+pip install youtube-transcript-api langchain-google-genai langchain pydantic google-api-python-client google-auth-httplib2 google-auth-oauthlib python-dotenv
