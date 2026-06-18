@@ -1,7 +1,6 @@
-import youtube_transcript_api
-print("LIBRARY LOCATION:", youtube_transcript_api.__file__)
 import os
 import json
+import youtube_transcript_api
 from youtube_transcript_api import YouTubeTranscriptApi
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
